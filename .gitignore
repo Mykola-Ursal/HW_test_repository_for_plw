@@ -1,0 +1,7 @@
+.env
+.playwright/
+.playwright-cli/
+node_modules/
+playwright-report/
+playwright-report-lab/
+test-results/
